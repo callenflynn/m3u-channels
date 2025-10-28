@@ -15,9 +15,5 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01354-petstvusa-petstv/playlist.m3u
 #EXTINF:-1 tvg-id="PeopleAreAwesome" tvg-name="PeopleAreAwesome" tvg-logo="https://example.com/logos/peopleareawesome.png" group-title="Hype",People Are Awesome
 https://jukin-peopleareawesome-1-us.roku.wurl.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AFVTV" tvg-name="AFVTV" tvg-logo="https://example.com/logos/afv.png" group-title="Comedy",AFV TV
-https://dai.google.com/linear/hls/event/Rp2teh24Qy6JrVjmj-CZhg/master.m3u8
-
 #EXTINF:-1 tvg-id="ChiveTV" tvg-name="ChiveTV" tvg-logo="https://example.com/logos/chive.png" group-title="Entertainment",ChiveTV
-https://chive-charity-content-cdn-01.chive.tv/live/playlist.m3u8
-
+https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
