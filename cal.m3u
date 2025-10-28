@@ -1,19 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ChillTV" tvg-name="ChillTV" tvg-logo="https://example.com/logos/chilltv.png" group-title="Chill",Chill TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02138-noseycoverchill-nosey/playlist.m3u8
+https://chilltv-localnow.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FailArmy" tvg-name="FailArmy" tvg-logo="https://example.com/logos/failarmy.png" group-title="Comedy",FailArmy
-https://failarmy.ams1.cdn.digitaloceanspaces.com/live/fa.m3u8
+https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedBullTV" tvg-name="RedBullTV" tvg-logo="https://example.com/logos/redbull.png" group-title="Sports",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/rtp-prod/playlist.m3u8
+https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8
 
 #EXTINF:-1 tvg-id="PetsTV" tvg-name="PetsTV" tvg-logo="https://example.com/logos/pets.png" group-title="Animals",Pets.TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01354-petstvusa-petstv/playlist.m3u8
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PeopleAreAwesome" tvg-name="PeopleAreAwesome" tvg-logo="https://example.com/logos/peopleareawesome.png" group-title="Hype",People Are Awesome
-https://jukin-peopleareawesome-1-us.roku.wurl.com/playlist.m3u8
+https://peopletv-str.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AFVTV" tvg-name="AFVTV" tvg-logo="https://example.com/logos/afv.png" group-title="Comedy",AFV TV
+https://afv-localnow.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChiveTV" tvg-name="ChiveTV" tvg-logo="https://example.com/logos/chive.png" group-title="Entertainment",ChiveTV
-https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
+https://chivetv-localnow.amagi.tv/playlist.m3u8
