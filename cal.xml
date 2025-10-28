@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="ChillTV">
+    <display-name>Chill TV</display-name>
+    <icon src="https://example.com/logos/chilltv.png"/>
+  </channel>
+  <channel id="FailArmy">
+    <display-name>FailArmy</display-name>
+    <icon src="https://example.com/logos/failarmy.png"/>
+  </channel>
+  <channel id="RedBullTV">
+    <display-name>Red Bull TV</display-name>
+    <icon src="https://example.com/logos/redbull.png"/>
+  </channel>
+  <channel id="PetsTV">
+    <display-name>Pets.TV</display-name>
+    <icon src="https://example.com/logos/pets.png"/>
+  </channel>
+  <channel id="PeopleAreAwesome">
+    <display-name>People Are Awesome</display-name>
+    <icon src="https://example.com/logos/peopleareawesome.png"/>
+  </channel>
+  <channel id="AFVTV">
+    <display-name>AFV TV</display-name>
+    <icon src="https://example.com/logos/afv.png"/>
+  </channel>
+  <channel id="ChiveTV">
+    <display-name>ChiveTV</display-name>
+    <icon src="https://example.com/logos/chive.png"/>
+  </channel>
+
+  <!-- Example programme listings -->
+  <programme start="20251028080000 +0000" stop="20251028090000 +0000" channel="ChillTV">
+    <title>Chill Morning Vibes</title>
+  </programme>
+
+  <programme start="20251028090000 +0000" stop="20251028100000 +0000" channel="FailArmy">
+    <title>Fails Compilation Hour</title>
+  </programme>
+
+  <programme start="20251028100000 +0000" stop="20251028110000 +0000" channel="RedBullTV">
+    <title>Extreme Sports Highlights</title>
+  </programme>
+
+  <programme start="20251028110000 +0000" stop="20251028120000 +0000" channel="PetsTV">
+    <title>Funny Pets Show</title>
+  </programme>
+
+  <programme start="20251028120000 +0000" stop="20251028130000 +0000" channel="PeopleAreAwesome">
+    <title>Awesome Tricks & Stunts</title>
+  </programme>
+
+  <programme start="20251028130000 +0000" stop="20251028140000 +0000" channel="AFVTV">
+    <title>America's Funniest Home Videos</title>
+  </programme>
+
+  <programme start="20251028140000 +0000" stop="20251028150000 +0000" channel="ChiveTV">
+    <title>Chive Show</title>
+  </programme>
+</tv>
