@@ -1,62 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ChillTV">
-    <display-name>Chill TV</display-name>
-    <icon src="https://example.com/logos/chilltv.png"/>
-  </channel>
-  <channel id="FailArmy">
-    <display-name>FailArmy</display-name>
-    <icon src="https://example.com/logos/failarmy.png"/>
-  </channel>
-  <channel id="RedBullTV">
-    <display-name>Red Bull TV</display-name>
-    <icon src="https://example.com/logos/redbull.png"/>
-  </channel>
-  <channel id="PetsTV">
-    <display-name>Pets.TV</display-name>
-    <icon src="https://example.com/logos/pets.png"/>
-  </channel>
-  <channel id="PeopleAreAwesome">
-    <display-name>People Are Awesome</display-name>
-    <icon src="https://example.com/logos/peopleareawesome.png"/>
-  </channel>
-  <channel id="AFVTV">
-    <display-name>AFV TV</display-name>
-    <icon src="https://example.com/logos/afv.png"/>
-  </channel>
-  <channel id="ChiveTV">
-    <display-name>ChiveTV</display-name>
-    <icon src="https://example.com/logos/chive.png"/>
+  <channel id="AlwaysFunnyVideos.us@SD">
+    <display-name>Always Funny Videos SD</display-name>
+    <icon src="https://i.imgur.com/vfdN5Xl.png"/>
   </channel>
 
-  <!-- Programme listings -->
-  <programme start="20251028080000 +0000" stop="20251028090000 +0000" channel="ChillTV">
-    <title>Chill Morning Vibes</title>
+  <channel id="AMC.us@EastHD">
+    <display-name>AMC East HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png"/>
+  </channel>
+
+  <channel id="ChiveTV.us@SD">
+    <display-name>Chive TV SD</display-name>
+    <icon src="https://i.imgur.com/iUMAOUq.png"/>
+  </channel>
+
+  <channel id="FailArmy.us@Germany">
+    <display-name>FailArmy Germany</display-name>
+    <icon src="https://i.imgur.com/VIpQJxL.png"/>
+  </channel>
+
+  <channel id="FXM.us@East">
+    <display-name>FXM East</display-name>
+    <icon src="https://i.postimg.cc/j27hBV04/fxm.png"/>
+  </channel>
+
+  <channel id="FXMovieChannel.us@SD">
+    <display-name>FX Movie Channel SD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png"/>
+  </channel>
+
+  <channel id="HallmarkMoviesMore.us@SD">
+    <display-name>Hallmark Movies & More SD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="HallmarkMoviesMysteries.us@East">
+    <display-name>Hallmark Movies & Mysteries East</display-name>
+    <icon src="https://i.imgur.com/GPRGA9C.png"/>
+  </channel>
+
+  <channel id="PeopleAreAwesome.us@Poland">
+    <display-name>People Are Awesome Poland</display-name>
+    <icon src="https://i.imgur.com/MsIx7Ax.png"/>
+  </channel>
+
+  <!-- Example program listings: start with generic placeholders -->
+  <programme start="20251028080000 +0000" stop="20251028090000 +0000" channel="AlwaysFunnyVideos.us@SD">
+    <title>Always Funny Clips</title>
   </programme>
 
-  <programme start="20251028090000 +0000" stop="20251028100000 +0000" channel="FailArmy">
-    <title>Fails Compilation Hour</title>
+  <programme start="20251028090000 +0000" stop="20251028100000 +0000" channel="AMC.us@EastHD">
+    <title>AMC Movie Block</title>
   </programme>
 
-  <programme start="20251028100000 +0000" stop="20251028110000 +0000" channel="RedBullTV">
-    <title>Extreme Sports Highlights</title>
+  <programme start="20251028100000 +0000" stop="20251028110000 +0000" channel="ChiveTV.us@SD">
+    <title>Outdoor Adventures</title>
   </programme>
 
-  <programme start="20251028110000 +0000" stop="20251028120000 +0000" channel="PetsTV">
-    <title>Funny Pets Show</title>
+  <programme start="20251028110000 +0000" stop="20251028120000 +0000" channel="FailArmy.us@Germany">
+    <title>Fail Compilation Hour</title>
   </programme>
 
-  <programme start="20251028120000 +0000" stop="20251028130000 +0000" channel="PeopleAreAwesome">
-    <title>Awesome Tricks & Stunts</title>
+  <programme start="20251028120000 +0000" stop="20251028130000 +0000" channel="FXM.us@East">
+    <title>FXM Feature Film</title>
   </programme>
 
-  <programme start="20251028130000 +0000" stop="20251028140000 +0000" channel="AFVTV">
-    <title>America's Funniest Home Videos</title>
+  <programme start="20251028130000 +0000" stop="20251028140000 +0000" channel="FXMovieChannel.us@SD">
+    <title>FX Movie Classics</title>
   </programme>
 
-  <programme start="20251028140000 +0000" stop="20251028150000 +0000" channel="ChiveTV">
-    <title>Chive Show</title>
-    <desc>Live stream from DistroTV</desc>
-    <url>https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8</url>
+  <programme start="20251028140000 +0000" stop="20251028150000 +0000" channel="HallmarkMoviesMore.us@SD">
+    <title>Romantic Movie Hour</title>
   </programme>
+
+  <programme start="20251028150000 +0000" stop="20251028160000 +0000" channel="HallmarkMoviesMysteries.us@East">
+    <title>Mystery Movie Feature</title>
+  </programme>
+
+  <programme start="20251028160000 +0000" stop="20251028170000 +0000" channel="PeopleAreAwesome.us@Poland">
+    <title>Stunts & Skills</title>
+  </programme>
+
 </tv>
