@@ -1,22 +1,19 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="ChillTV" tvg-name="ChillTV" tvg-logo="https://example.com/logos/chilltv.png" group-title="Chill",Chill TV
-https://chilltv-localnow.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FailArmy" tvg-name="FailArmy" tvg-logo="https://example.com/logos/failarmy.png" group-title="Comedy",FailArmy
-https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RedBullTV" tvg-name="RedBullTV" tvg-logo="https://example.com/logos/redbull.png" group-title="Sports",Red Bull TV
-https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8
-
-#EXTINF:-1 tvg-id="PetsTV" tvg-name="PetsTV" tvg-logo="https://example.com/logos/pets.png" group-title="Animals",Pets.TV
-https://petclub-samsungaus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PeopleAreAwesome" tvg-name="PeopleAreAwesome" tvg-logo="https://example.com/logos/peopleareawesome.png" group-title="Hype",People Are Awesome
-https://peopletv-str.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AFVTV" tvg-name="AFVTV" tvg-logo="https://example.com/logos/afv.png" group-title="Comedy",AFV TV
-https://afv-localnow.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ChiveTV" tvg-name="ChiveTV" tvg-logo="https://example.com/logos/chive.png" group-title="Entertainment",ChiveTV
-https://chivetv-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlwaysFunnyVideos.us@SD" tvg-logo="https://i.imgur.com/vfdN5Xl.png" group-title="Series",Always Funny Videos SD
+https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="AMC.us@EastHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East HD
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
+#EXTINF:-1 tvg-id="ChiveTV.us@SD" tvg-logo="https://i.imgur.com/iUMAOUq.png" group-title="Outdoor",Chive TV SD
+https://linear-941.frequency.stream/dist/stirr/941/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us@Germany" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Comedy",FailArmy Germany
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7ffe738977e2c312133/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c2b899ff-8adb-43d9-a336-9962f9aeca84
+#EXTINF:-1 tvg-id="FXM.us@East" tvg-logo="https://i.postimg.cc/j27hBV04/fxm.png" group-title="Movies",FXM East
+https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-id="FXMovieChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="Movies",FX Movie Channel SD
+https://tvpass.org/live/FXMovieChannel/hd
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.us@SD" tvg-logo="" group-title="Movies",Hallmark Movies & More SD
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us@East" tvg-logo="https://i.imgur.com/GPRGA9C.png" group-title="Movies",Hallmark Movies & Mysteries East
+https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 tvg-id="PeopleAreAwesome.us@Poland" tvg-logo="https://i.imgur.com/MsIx7Ax.png" group-title="Entertainment",People Are Awesome Poland
+https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
