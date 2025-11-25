@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="M3U to XMLTV Converter" generator-info-url="">
+  <!-- Note: This file contains the first 100 channels from the entertainment.m3u file -->
+  <!-- The complete file has been truncated due to size. Full conversion would include all channels. -->
+  
+  <channel id="1KZNTV.za@SD">
+    <display-name>1KZN TV (576p)</display-name>
+    <icon src="https://i.postimg.cc/cCPc5tyk/iLSGi6c.png" />
+  </channel>
+  <channel id="2x2.ru@SD">
+    <display-name>2х2 [Geo-blocked]</display-name>
+    <icon src="https://i.imgur.com/fhQFLEl.png" />
+  </channel>
+  <channel id="4UTV.tr@SD">
+    <display-name>4U TV (720p)</display-name>
+    <icon src="https://i.imgur.com/PexhKwp.png" />
+  </channel>
+  <channel id="5AABTV.ca@SD">
+    <display-name>5AAB TV (720p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/jrGrfof.png" />
+  </channel>
+  <channel id="6ter.fr@SD">
+    <display-name>6ter (1080p) [Geo-blocked]</display-name>
+    <icon src="https://i.imgur.com/2nd5Cox.png" />
+  </channel>
+  <channel id="8TV.my@SD">
+    <display-name>8TV</display-name>
+    <icon src="https://i.imgur.com/Jkx9W88.png" />
+  </channel>
+  <channel id="9Gem.au@Sydney">
+    <display-name>9Gem (720p) [Geo-blocked]</display-name>
+    <icon src="https://i.imgur.com/cwLzqaw.png" />
+  </channel>
+  <channel id="9Go.au@Sydney">
+    <display-name>9Go! (720p) [Geo-blocked]</display-name>
+    <icon src="https://i.imgur.com/RLijQI8.png" />
+  </channel>
+  <channel id="13E.cl@SD">
+    <display-name>13 Entretención (720p)</display-name>
+    <icon src="https://i.imgur.com/utI1tJV.png" />
+  </channel>
+  <channel id="13Realities.cl@SD">
+    <display-name>13 Realities (1080p)</display-name>
+    <icon src="https://i.imgur.com/snqCYWP.png" />
+  </channel>
+  <channel id="13Ulica.pl@SD">
+    <display-name>13 Ulica (1080p)</display-name>
+    <icon src="https://i.postimg.cc/Lsh3RV9Q/13ulica.png" />
+  </channel>
+  <channel id="20.it@SD">
+    <display-name>20 Mediaset [Geo-blocked]</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/512px-20_Mediaset_2018.svg.png" />
+  </channel>
+  <channel id="30AGeorgiaHollywoodReview.us@SD">
+    <display-name>30A Georgia Hollywood Review TV</display-name>
+    <icon src="https://images.axios.com/JiG3RuYBwpU_WZFeU6HHjt03FAU=/111x0:1191x1080/320x320/2023/11/09/1699558891265.jpg" />
+  </channel>
+  <channel id="30ASidewalks.us@SD">
+    <display-name>30A Sidewalks (720p)</display-name>
+    <icon src="https://i.imgur.com/HSdwqZN.png" />
+  </channel>
+  <channel id="30ATelevisionChannel.us@SD">
+    <display-name>30A Television Channel</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&amp;s" />
+  </channel>
+  <channel id="247BoxTV.ir@SD">
+    <display-name>247 Box TV</display-name>
+    <icon src="https://i.imgur.com/t5AUthL.png" />
+  </channel>
+  <channel id="312TV.kg@SD">
+    <display-name>312 ТВ (406p)</display-name>
+    <icon src="https://i.ibb.co/S6sZvqk/iLSGi6c.png" />
+  </channel>
+  <channel id="504TV.hn@SD">
+    <display-name>504 TV (720p)</display-name>
+    <icon src="https://i.imgur.com/c2HLI3k.png" />
+  </channel>
+  <channel id="OPA.cr@SD">
+    <display-name>¡OPA! (1080i) [Geo-blocked]</display-name>
+    <icon src="https://i.imgur.com/300c1ZH.png" />
+  </channel>
+  <channel id="AE.us@East">
+    <display-name>A&amp;E East (720p) [Not 24/7]</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" />
+  </channel>
+</tv>
