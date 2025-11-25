@@ -9,29 +9,9 @@
     <display-name>10 Shake (480p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/10_Shake_logo_2020.svg/512px-10_Shake_logo_2020.svg.png" />
   </channel>
-  <channel id="ADNTVPlus.fr@SD">
-    <display-name>ADN TV+</display-name>
-    <icon src="https://i.imgur.com/HQZQyWt.png" />
-  </channel>
-  <channel id="AnimationShowChannel.cn@SD">
-    <display-name>Animation Show Channel</display-name>
-    <icon src="https://i.imgur.com/Ul1pjUN.png" />
-  </channel>
-  <channel id="Animax.in@SD">
-    <display-name>Animax [Geo-blocked]</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png" />
-  </channel>
   <channel id="AnimeAllDay.us@US">
     <display-name>Anime All Day</display-name>
     <icon src="https://i.imgur.com/bYZtd0G.png" />
-  </channel>
-  <channel id="AnimeVision.es@SD">
-    <display-name>Anime Vision (1080p)</display-name>
-    <icon src="https://i.imgur.com/pUpKznl.png" />
-  </channel>
-  <channel id="AnimeVisionClassics.es@SD">
-    <display-name>Anime Vision Classics (1080p)</display-name>
-    <icon src="https://i.imgur.com/mTaiEE1.png" />
   </channel>
   <channel id="AnimeZoneTV.do@SD">
     <display-name>Anime Zone TV (480p)</display-name>
@@ -57,89 +37,17 @@
     <display-name>Cartoon Classics</display-name>
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg" />
   </channel>
-  <channel id="ChintuTV.in@SD">
-    <display-name>Chintu TV (576p)</display-name>
-    <icon src="https://i.imgur.com/MHrufYc.png" />
-  </channel>
-  <channel id="ChuttiTV.in@SD">
-    <display-name>Chutti TV (576p)</display-name>
-    <icon src="https://i.imgur.com/FSM47sR.png" />
-  </channel>
-  <channel id="DisneyChannelLatinAmerica.ar@Panregional">
-    <display-name>Disney Channel Latin America (1080p)</display-name>
-    <icon src="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" />
-  </channel>
-  <channel id="DisneyChannelLatinAmerica.ar@PanregionalHD">
-    <display-name>Disney Channel Latin America Panregional HD (1080p)</display-name>
-    <icon src="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" />
-  </channel>
-  <channel id="DisneyJr.tr@SD">
-    <display-name>Disney Jr. (1080p) [Geo-blocked]</display-name>
-    <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" />
-  </channel>
-  <channel id="DisneyJrLatinAmerica.ar@South">
-    <display-name>Disney Jr. Latin America South (480p)</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" />
-  </channel>
-  <channel id="DreamWorksChannelAsia.us@Vietnam">
-    <display-name>DreamWorks Channel Asia Vietnam (1080p)</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png" />
-  </channel>
-  <channel id="DreikoTV.pa@SD">
-    <display-name>DreikoTv (720p) [Not 24/7]</display-name>
-    <icon src="https://i.imgur.com/k8U0e0b.png" />
-  </channel>
-  <channel id="EnerGeek.cl@SD">
-    <display-name>EnerGeek (720p) [Not 24/7]</display-name>
-    <icon src="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" />
-  </channel>
   <channel id="ExtremaKidsTV.cr@HD">
     <display-name>Extrema Kids TV [Not 24/7]</display-name>
     <icon src="https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg" />
-  </channel>
-  <channel id="GameOne.fr@SD">
-    <display-name>Game One (1080p)</display-name>
-    <icon src="https://i.imgur.com/UHkaObv.png" />
-  </channel>
-  <channel id="Geekdot.br@SD">
-    <display-name>Geekdot (720p)</display-name>
-    <icon src="https://i.imgur.com/jML1u4O.png" />
-  </channel>
-  <channel id="GikTVMX.mx@SD">
-    <display-name>GikTVMx (480p)</display-name>
-    <icon src="https://i.imgur.com/Gwz78jZ.png" />
-  </channel>
-  <channel id="GoldenEagleCartoon.cn@SD">
-    <display-name>Golden Eagle Cartoon</display-name>
-    <icon src="https://i.imgur.com/xfVHrKQ.png" />
   </channel>
   <channel id="GooderNationChannel32.us@West">
     <display-name>Gooder Nation Channel 32 (720p) [Not 24/7]</display-name>
     <icon src="" />
   </channel>
-  <channel id="JapanimTV.be@SD">
-    <display-name>Japanim TV (1080p)</display-name>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" />
-  </channel>
-  <channel id="JiangxiChildrensChannel.cn@SD">
-    <display-name>Jiangxi Children's Channel</display-name>
-    <icon src="https://www.tvchinese.net/uploads/tv/jxtv6.jpg" />
-  </channel>
-  <channel id="Kanade.cl@SD">
-    <display-name>Kanade (1080p)</display-name>
-    <icon src="https://static.kanade.cl/assets/img/profilepic_512px.png" />
-  </channel>
-  <channel id="KuriakosKids.pt@SD">
-    <display-name>Kuriakos Kids (1080p)</display-name>
-    <icon src="https://i.imgur.com/SRX6EPY.png" />
-  </channel>
   <channel id="Lupinthe3rd.us@SD">
     <display-name>Lupin the 3rd</display-name>
     <icon src="https://i.imgur.com/Wopu3y9.png" />
-  </channel>
-  <channel id="MagicKids.ar@SD">
-    <display-name>Magic Kids (486p)</display-name>
-    <icon src="https://i.imgur.com/CMImqQY.png" />
   </channel>
   <channel id="MCN6MusicChannel.us@SD">
     <display-name>MCN6 Music Channel (1080p) [Not 24/7]</display-name>
@@ -149,19 +57,7 @@
     <display-name>Movies for Gamers</display-name>
     <icon src="https://i.imgur.com/aqjzEkb.png" />
   </channel>
-  <channel id="Multimania.lv@SD">
-    <display-name>Multimania (Latvia) (576p)</display-name>
-    <icon src="https://i.imgur.com/J9Lwc0T.png" />
-  </channel>
-  <channel id="Naruto.us@Austria">
-    <display-name>Naruto</display-name>
-    <icon src="https://i.imgur.com/M8X3Kvc.png" />
-  </channel>
   <channel id="Naruto.us@Canada">
-    <display-name>Naruto</display-name>
-    <icon src="https://i.imgur.com/M8X3Kvc.png" />
-  </channel>
-  <channel id="Naruto.us@Germany">
     <display-name>Naruto</display-name>
     <icon src="https://i.imgur.com/M8X3Kvc.png" />
   </channel>
@@ -169,29 +65,13 @@
     <display-name>Naruto</display-name>
     <icon src="https://i.imgur.com/M8X3Kvc.png" />
   </channel>
-  <channel id="Nickelodeon.ee@SD">
-    <display-name>Nickelodeon (576p)</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png" />
-  </channel>
   <channel id="OnePiece.us@SD">
     <display-name>One Piece</display-name>
     <icon src="https://i.imgur.com/XsvbAWR.png" />
   </channel>
-  <channel id="Pingviin.ee@SD">
-    <display-name>Pingviin (576p)</display-name>
-    <icon src="https://i.imgur.com/b6xupqO.png" />
-  </channel>
-  <channel id="Pingviins.lv@SD">
-    <display-name>Pingvīns (576p) [Geo-blocked]</display-name>
-    <icon src="https://i.imgur.com/hfXoJIY.png" />
-  </channel>
   <channel id="PlutoTVPokemon.us@SD">
     <display-name>Pokémon</display-name>
     <icon src="https://i.imgur.com/GEbRABE.png" />
-  </channel>
-  <channel id="Pro100TV.ru@SD">
-    <display-name>Pro100TV</display-name>
-    <icon src="https://i.imgur.com/YfQEflM.png" />
   </channel>
   <channel id="RetroCrush.us@SD">
     <display-name>RetroCrush (1080p)</display-name>
@@ -201,44 +81,12 @@
     <display-name>South Park</display-name>
     <icon src="https://i.imgur.com/qA3KsTh.png" />
   </channel>
-  <channel id="SpacetoonArabic.ae@SD">
-    <display-name>Spacetoon Arabic (1080p)</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" />
-  </channel>
-  <channel id="SX3.es@SD">
-    <display-name>SX3 (1080p) [Geo-blocked]</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/512px-SX3_logo.svg.png" />
-  </channel>
-  <channel id="TigueritoTV.do@HD">
-    <display-name>Tiguerito TV (720p) [Not 24/7]</display-name>
-    <icon src="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" />
-  </channel>
   <channel id="ToonamiAftermath.us@East">
     <display-name>Toonami Aftermath East (480p)</display-name>
     <icon src="https://i.imgur.com/aSjhZK7.png" />
   </channel>
-  <channel id="XilamTV.fr@SD">
-    <display-name>XilamTV (1080p)</display-name>
-    <icon src="https://yt3.googleusercontent.com/ytc/AIdro_k6spR1AVLZ0ISqrFP-Z9JeBMHPpAc9T-pmFlG6_lSkNw=s160-c-k-c0x00ffffff-no-rj" />
-  </channel>
-  <channel id="XtremaCartoons.ar@SD">
-    <display-name>Xtrema Cartoons</display-name>
-    <icon src="https://i.imgur.com/X2d8y4e.png" />
-  </channel>
   <channel id="YuGiOh.us@SD">
     <display-name>Yu-Gi-Oh!</display-name>
     <icon src="https://i.imgur.com/Tl6aW2u.png" />
-  </channel>
-  <channel id="Multimania.ru@SD">
-    <display-name>Мультимания (576p)</display-name>
-    <icon src="https://i.imgur.com/abh8ZBA.png" />
-  </channel>
-  <channel id="Solnce.ru@SD">
-    <display-name>Солнце</display-name>
-    <icon src="https://i.imgur.com/HCefxaK.png" />
-  </channel>
-  <channel id="YouManCartoonChannel.cn@SD">
-    <display-name>优漫卡通 (576p)</display-name>
-    <icon src="https://i.imgur.com/GZInf2W.png" />
   </channel>
 </tv>

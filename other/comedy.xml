@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="M3U to XMLTV Converter" generator-info-url="">
-  <channel id="3CatElbunquer.es@SD">
-    <display-name>3Cat El búnquer (1080p)</display-name>
-    <icon src="https://i.imgur.com/wiqdIjd.png" />
-  </channel>
-  <channel id="3CatPlatsbruts.es@SD">
-    <display-name>3Cat Plats bruts (1080p)</display-name>
-    <icon src="https://i.imgur.com/49ZENis.png" />
-  </channel>
-  <channel id="13Humor.cl@SD">
-    <display-name>13 Humor (1080p)</display-name>
-    <icon src="https://i.imgur.com/KvMuTzN.png" />
-  </channel>
   <channel id="30ARidiculousTV.us@SD">
     <display-name>30A Ridiculous TV (720p)</display-name>
     <icon src="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" />
@@ -20,10 +8,6 @@
   <channel id="AFV.us@SD">
     <display-name>AFV (720p)</display-name>
     <icon src="https://i.imgur.com/TOB9vmW.png" />
-  </channel>
-  <channel id="AFVEspanol.us@SD">
-    <display-name>AFV en Español (720p) [Not 24/7]</display-name>
-    <icon src="https://i.imgur.com/HUK4WXC.png" />
   </channel>
   <channel id="BlackThrowbacks.us@SD">
     <display-name>Black Throwbacks</display-name>
@@ -33,21 +17,9 @@
     <display-name>Camera Smile (480p)</display-name>
     <icon src="https://i.imgur.com/V5h4R83.png" />
   </channel>
-  <channel id="CCPlutoTV.us@Austria">
-    <display-name>CC Pluto TV</display-name>
-    <icon src="https://i.imgur.com/MjC40At.png" />
-  </channel>
-  <channel id="CCPlutoTV.us@Germany">
-    <display-name>CC Pluto TV</display-name>
-    <icon src="https://i.imgur.com/MjC40At.png" />
-  </channel>
   <channel id="ClassicTVComedy.us@SD">
     <display-name>Classic TV Comedy</display-name>
     <icon src="https://i.imgur.com/wg5I5Fb.png" />
-  </channel>
-  <channel id="ComediaMadeinSpain.us@SD">
-    <display-name>Comedia Made in Spain (720p) [Not 24/7]</display-name>
-    <icon src="https://i.imgur.com/8ddFdSQ.png" />
   </channel>
   <channel id="ComedyCentral.us@East">
     <display-name>Comedy Central (720p)</display-name>
@@ -61,10 +33,6 @@
     <display-name>Comedy Central Animation</display-name>
     <icon src="https://i.imgur.com/uENch0P.png" />
   </channel>
-  <channel id="ComedyCentralenEspanol.us@SD">
-    <display-name>Comedy Central en Español</display-name>
-    <icon src="https://i.imgur.com/6xTD3G8.png" />
-  </channel>
   <channel id="ComedyCentralPlutoTV.us@US">
     <display-name>Comedy Central Pluto TV</display-name>
     <icon src="https://i.imgur.com/9y6TtjF.png" />
@@ -73,21 +41,9 @@
     <display-name>Comedy Dynamics</display-name>
     <icon src="https://i.imgur.com/1lEvUOa.png" />
   </channel>
-  <channel id="ComedyPlay.ro@SD">
-    <display-name>Comedy Play (720p)</display-name>
-    <icon src="https://i.imgur.com/6kAeVOk.png" />
-  </channel>
-  <channel id="ComedyTV.ge@SD">
-    <display-name>Comedy TV</display-name>
-    <icon src="https://i.imgur.com/i1TANKv.png" />
-  </channel>
   <channel id="ComedyTV.us@SD">
     <display-name>Comedy TV</display-name>
     <icon src="https://i.imgur.com/KLfXnba.png" />
-  </channel>
-  <channel id="DistritoComedia.mx@SD">
-    <display-name>Distrito Comedia (576p)</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" />
   </channel>
   <channel id="DryBarComedyPlus.us@SD">
     <display-name>Dry Bar Comedy (720p)</display-name>
@@ -101,61 +57,25 @@
     <display-name>FailArmy</display-name>
     <icon src="https://i.imgur.com/VIpQJxL.png" />
   </channel>
-  <channel id="FailArmy.us@France">
-    <display-name>FailArmy</display-name>
-    <icon src="https://i.imgur.com/VIpQJxL.png" />
-  </channel>
   <channel id="FailArmy.us@US">
     <display-name>Failarmy International (720p)</display-name>
-    <icon src="https://i.imgur.com/VIpQJxL.png" />
-  </channel>
-  <channel id="FailArmy.us@Italy">
-    <display-name>FailArmy Italy (720p)</display-name>
-    <icon src="https://i.imgur.com/VIpQJxL.png" />
-  </channel>
-  <channel id="FailArmy.us@Spain">
-    <display-name>FailArmy Spain</display-name>
     <icon src="https://i.imgur.com/VIpQJxL.png" />
   </channel>
   <channel id="FunnyAF.us@SD">
     <display-name>Funny AF</display-name>
     <icon src="https://i.imgur.com/UCwjdtQ.png" />
   </channel>
-  <channel id="GEMComedy.tr@SD">
-    <display-name>GEM Comedy</display-name>
-    <icon src="https://i.imgur.com/FuscfJW.png" />
-  </channel>
-  <channel id="GeminiComedy.in@SD">
-    <display-name>Gemini Comedy (576p)</display-name>
-    <icon src="https://i.imgur.com/CnDyjkX.png" />
-  </channel>
   <channel id="HumorMill.us@SD">
     <display-name>Humor Mill (1080p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/e5W91v2.png" />
-  </channel>
-  <channel id="Jail.pl@Poland">
-    <display-name>Jail</display-name>
-    <icon src="" />
-  </channel>
-  <channel id="JordanComedy.jo@SD">
-    <display-name>Jordan Comedy (1080p)</display-name>
-    <icon src="https://i.imgur.com/DuwwoO2.png" />
-  </channel>
-  <channel id="JustforLaughs.us@UK">
-    <display-name>Just for Laughs (1080p)</display-name>
-    <icon src="https://i.imgur.com/YoK4vcm.png" />
   </channel>
   <channel id="JustforLaughsGags.us@SD">
     <display-name>Just For Laughs Gags (720p)</display-name>
     <icon src="https://i.imgur.com/HjVEVMJ.png" />
   </channel>
-  <channel id="JustforLaughs.us@Italy">
-    <display-name>Just for Laughs Italy (720p)</display-name>
+  <channel id="JustforLaughs.us@UK">
+    <display-name>Just for Laughs (1080p)</display-name>
     <icon src="https://i.imgur.com/YoK4vcm.png" />
-  </channel>
-  <channel id="JustepourRire.us@France">
-    <display-name>Juste pour Rire</display-name>
-    <icon src="https://i.imgur.com/m5lO27j.png" />
   </channel>
   <channel id="KSHBDT3.us@SD">
     <display-name>KSHB-DT3 (720p)</display-name>
@@ -164,10 +84,6 @@
   <channel id="Laff.us@SD">
     <display-name>Laff (480p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" />
-  </channel>
-  <channel id="LaughterTheater.cn@SD">
-    <display-name>Laughter Theater</display-name>
-    <icon src="https://i.imgur.com/CrFesS6.png" />
   </channel>
   <channel id="LOLAfrica.za@SD">
     <display-name>LOL (720p)</display-name>
@@ -185,21 +101,9 @@
     <display-name>Mystery Science Theater 3000 (1080p)</display-name>
     <icon src="https://i.imgur.com/8KWjY4o.png" />
   </channel>
-  <channel id="NickComedyCentralPlus1.de@HD">
-    <display-name>Nick/Comedy Central +1 HD (1080p)</display-name>
-    <icon src="https://i.imgur.com/08ZUI9k.png" />
-  </channel>
-  <channel id="PersianaComedy.fr@SD">
-    <display-name>Persiana Comedy</display-name>
-    <icon src="https://i.imgur.com/DBZ3Pi5.png" />
-  </channel>
   <channel id="PlutoTVClassicTV.us@UK">
     <display-name>Pluto TV Classic TV (720p)</display-name>
     <icon src="https://i.imgur.com/hGdXRMd.png" />
-  </channel>
-  <channel id="PlutoTVComedie.us@France">
-    <display-name>Pluto TV Comédie</display-name>
-    <icon src="https://i.imgur.com/1e4IFrS.png" />
   </channel>
   <channel id="PlutoTVComedy.us@Canada">
     <display-name>Pluto TV Comedy</display-name>
@@ -209,100 +113,16 @@
     <display-name>Pluto TV Comedy</display-name>
     <icon src="https://i.imgur.com/MTVrbd5.png" />
   </channel>
-  <channel id="PlutoTVComedyCentralLatino.us@SD">
-    <display-name>Pluto TV Comedy Central Latino (720p)</display-name>
-    <icon src="https://i.imgur.com/FiM7Rbz.png" />
-  </channel>
-  <channel id="PlutoTVKenanyKel.us@SD">
-    <display-name>Pluto TV Kenan y Kel (720p)</display-name>
-    <icon src="https://i.imgur.com/9PAY5Xz.png" />
-  </channel>
-  <channel id="PlutoTVSeriesComedia.us@Spain">
-    <display-name>Pluto TV Series Comedia (360p)</display-name>
-    <icon src="https://i.imgur.com/INcTSkj.png" />
-  </channel>
-  <channel id="PlutoTVSitcoms.us@Austria">
-    <display-name>Pluto TV Sitcoms</display-name>
-    <icon src="https://i.imgur.com/YzrUL8P.png" />
-  </channel>
-  <channel id="PlutoTVSitcoms.us@Germany">
-    <display-name>Pluto TV Sitcoms</display-name>
-    <icon src="https://i.imgur.com/YzrUL8P.png" />
-  </channel>
-  <channel id="Vayasemanita.us@Spain">
-    <display-name>Pluto TV Vaya semanita (720p)</display-name>
-    <icon src="https://i.imgur.com/0bCLNUG.png" />
-  </channel>
   <channel id="RiffTrax.us@US">
     <display-name>RiffTrax</display-name>
     <icon src="https://i.imgur.com/hM4yKMn.png" />
-  </channel>
-  <channel id="RotanaComedy.sa@SD">
-    <display-name>Rotana Comedy (1080p) [Geo-blocked]</display-name>
-    <icon src="https://i.imgur.com/IlT8U6S.png" />
-  </channel>
-  <channel id="RoyaComedy.jo@SD">
-    <display-name>Roya Comedy (1080p)</display-name>
-    <icon src="https://i.imgur.com/oIThcM8.png" />
-  </channel>
-  <channel id="Scherzierisate.us@Italy">
-    <display-name>Scherzi e risate Italy (720p)</display-name>
-    <icon src="https://i.imgur.com/jVWPVvJ.png" />
-  </channel>
-  <channel id="SirippoliTV.in@SD">
-    <display-name>Sirippoli TV (576p)</display-name>
-    <icon src="https://i.imgur.com/nsplwFc.png" />
-  </channel>
-  <channel id="SuryaComedy.in@SD">
-    <display-name>Surya Comedy (576p)</display-name>
-    <icon src="https://i.imgur.com/dNI0Vm5.png" />
-  </channel>
-  <channel id="TakeshisCastle.us@Austria">
-    <display-name>Takeshi's Castle</display-name>
-    <icon src="https://i.imgur.com/KuK72kL.png" />
-  </channel>
-  <channel id="TakeshisCastle.us@Germany">
-    <display-name>Takeshi's Castle</display-name>
-    <icon src="https://i.imgur.com/KuK72kL.png" />
-  </channel>
-  <channel id="TopMillionDollarAgent.pl@FAST">
-    <display-name>Top Million Dollar Agent</display-name>
-    <icon src="" />
-  </channel>
-  <channel id="TV2Comedy.hu@SD">
-    <display-name>TV2 Comedy (576p)</display-name>
-    <icon src="https://i.imgur.com/B02hbcV.png" />
   </channel>
   <channel id="TVLandSitcoms.us@SD">
     <display-name>TV Land Sitcoms</display-name>
     <icon src="https://i.imgur.com/phHHs7l.png" />
   </channel>
-  <channel id="TVMaticComedy.br@SD">
-    <display-name>TVMatic Comedy (720p)</display-name>
-    <icon src="https://i.imgur.com/l5PBcKN.png" />
-  </channel>
-  <channel id="TVSComedyNetwork.us@SD">
-    <display-name>TVS Comedy Network (720p)</display-name>
-    <icon src="https://i.imgur.com/rXORbti.png" />
-  </channel>
-  <channel id="UdayaComedy.in@SD">
-    <display-name>Udaya Comedy (576p)</display-name>
-    <icon src="https://i.imgur.com/mLAnscw.png" />
-  </channel>
   <channel id="UniversalComedy.us@SD">
     <display-name>Universal Comedy (480p)</display-name>
     <icon src="https://i.imgur.com/avBL8pQ.png" />
-  </channel>
-  <channel id="ViXJajaja.mx@SD">
-    <display-name>ViX Jajaja (1080p)</display-name>
-    <icon src="https://i.imgur.com/UL1JtYb.png" />
-  </channel>
-  <channel id="KVNTV.ru@SD">
-    <display-name>КВН ТВ</display-name>
-    <icon src="https://i.imgur.com/Vw3LFLX.png" />
-  </channel>
-  <channel id="TvoyeTVYumor.ru@SD">
-    <display-name>Твое ТВ Юмор</display-name>
-    <icon src="https://smotret.tv/images/tvoe-tv-yumor.webp" />
   </channel>
 </tv>

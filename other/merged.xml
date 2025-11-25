@@ -1,73 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="M3U to XMLTV Converter" generator-info-url="">
-  <channel id="1KZNTV.za@SD">
-    <display-name>1KZN TV (576p)</display-name>
-    <icon src="https://i.postimg.cc/cCPc5tyk/iLSGi6c.png" />
-  </channel>
-  <channel id="2x2.ru@SD">
-    <display-name>2х2 [Geo-blocked]</display-name>
-    <icon src="https://i.imgur.com/fhQFLEl.png" />
-  </channel>
   <channel id="3ABNKids.us@SD">
     <display-name>3ABN Kids Network</display-name>
     <icon src="https://i.imgur.com/z3npqO1.png" />
-  </channel>
-  <channel id="3CatElbunquer.es@SD">
-    <display-name>3Cat El búnquer (1080p)</display-name>
-    <icon src="https://i.imgur.com/wiqdIjd.png" />
-  </channel>
-  <channel id="3CatPlatsbruts.es@SD">
-    <display-name>3Cat Plats bruts (1080p)</display-name>
-    <icon src="https://i.imgur.com/49ZENis.png" />
-  </channel>
-  <channel id="4UTV.tr@SD">
-    <display-name>4U TV (720p)</display-name>
-    <icon src="https://i.imgur.com/PexhKwp.png" />
   </channel>
   <channel id="5AABTV.ca@SD">
     <display-name>5AAB TV (720p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/jrGrfof.png" />
   </channel>
-  <channel id="6ter.fr@SD">
-    <display-name>6ter (1080p) [Geo-blocked]</display-name>
-    <icon src="https://i.imgur.com/2nd5Cox.png" />
-  </channel>
-  <channel id="8TV.my@SD">
-    <display-name>8TV</display-name>
-    <icon src="https://i.imgur.com/Jkx9W88.png" />
-  </channel>
-  <channel id="9Gem.au@Sydney">
-    <display-name>9Gem (720p) [Geo-blocked]</display-name>
-    <icon src="https://i.imgur.com/cwLzqaw.png" />
-  </channel>
-  <channel id="9Go.au@Sydney">
-    <display-name>9Go! (720p) [Geo-blocked]</display-name>
-    <icon src="https://i.imgur.com/RLijQI8.png" />
-  </channel>
   <channel id="10Shake.au@Sydney">
     <display-name>10 Shake (480p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/10_Shake_logo_2020.svg/512px-10_Shake_logo_2020.svg.png" />
-  </channel>
-  <channel id="13E.cl@SD">
-    <display-name>13 Entretención (720p)</display-name>
-    <icon src="https://i.imgur.com/utI1tJV.png" />
-  </channel>
-  <channel id="13Humor.cl@SD">
-    <display-name>13 Humor (1080p)</display-name>
-    <icon src="https://i.imgur.com/KvMuTzN.png" />
-  </channel>
-  <channel id="13Realities.cl@SD">
-    <display-name>13 Realities (1080p)</display-name>
-    <icon src="https://i.imgur.com/snqCYWP.png" />
-  </channel>
-  <channel id="13Ulica.pl@SD">
-    <display-name>13 Ulica (1080p)</display-name>
-    <icon src="https://i.postimg.cc/Lsh3RV9Q/13ulica.png" />
-  </channel>
-  <channel id="20.it@SD">
-    <display-name>20 Mediaset [Geo-blocked]</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/512px-20_Mediaset_2018.svg.png" />
   </channel>
   <channel id="30AGeorgiaHollywoodReview.us@SD">
     <display-name>30A Georgia Hollywood Review TV</display-name>
@@ -93,22 +37,6 @@
     <display-name>100% Auto Moto TV (406p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/SZtJfOG.png" />
   </channel>
-  <channel id="247BoxTV.ir@SD">
-    <display-name>247 Box TV</display-name>
-    <icon src="https://i.imgur.com/t5AUthL.png" />
-  </channel>
-  <channel id="312TV.kg@SD">
-    <display-name>312 ТВ (406p)</display-name>
-    <icon src="https://i.ibb.co/S6sZvqk/iLSGi6c.png" />
-  </channel>
-  <channel id="504TV.hn@SD">
-    <display-name>504 TV (720p)</display-name>
-    <icon src="https://i.imgur.com/c2HLI3k.png" />
-  </channel>
-  <channel id="ADNTVPlus.fr@SD">
-    <display-name>ADN TV+</display-name>
-    <icon src="https://i.imgur.com/HQZQyWt.png" />
-  </channel>
   <channel id="AE.us@East">
     <display-name>A&amp;E East (720p) [Not 24/7]</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" />
@@ -117,33 +45,13 @@
     <display-name>AFV (720p)</display-name>
     <icon src="https://i.imgur.com/TOB9vmW.png" />
   </channel>
-  <channel id="AFVEspanol.us@SD">
-    <display-name>AFV en Español (720p) [Not 24/7]</display-name>
-    <icon src="https://i.imgur.com/HUK4WXC.png" />
-  </channel>
   <channel id="AlanBeckerTV.us@SD">
     <display-name>Becker</display-name>
     <icon src="https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj" />
   </channel>
-  <channel id="AnimationShowChannel.cn@SD">
-    <display-name>Animation Show Channel</display-name>
-    <icon src="https://i.imgur.com/Ul1pjUN.png" />
-  </channel>
-  <channel id="Animax.in@SD">
-    <display-name>Animax [Geo-blocked]</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png" />
-  </channel>
   <channel id="AnimeAllDay.us@US">
     <display-name>Anime All Day</display-name>
     <icon src="https://i.imgur.com/bYZtd0G.png" />
-  </channel>
-  <channel id="AnimeVision.es@SD">
-    <display-name>Anime Vision (1080p)</display-name>
-    <icon src="https://i.imgur.com/pUpKznl.png" />
-  </channel>
-  <channel id="AnimeVisionClassics.es@SD">
-    <display-name>Anime Vision Classics (1080p)</display-name>
-    <icon src="https://i.imgur.com/mTaiEE1.png" />
   </channel>
   <channel id="AnimeZoneTV.do@SD">
     <display-name>Anime Zone TV (480p)</display-name>
@@ -152,10 +60,6 @@
   <channel id="AutoMotorogSportTV.no@SD">
     <display-name>Auto Motor Sport</display-name>
     <icon src="https://i.imgur.com/0YJYgR7.png" />
-  </channel>
-  <channel id="AutoPlus.ru@SD">
-    <display-name>Авто Плюс</display-name>
-    <icon src="https://i.imgur.com/sVc8cFt.png" />
   </channel>
   <channel id="BBCFourCBeebies.uk@HD">
     <display-name>BBC Four/CBeebies (1080p)</display-name>
@@ -173,45 +77,17 @@
     <display-name>Camera Smile (480p)</display-name>
     <icon src="https://i.imgur.com/V5h4R83.png" />
   </channel>
-  <channel id="CanalMotor.no@SD">
-    <display-name>Canal Motor (720p)</display-name>
-    <icon src="https://i.postimg.cc/XJ0jb4d2/canalmotor.png" />
-  </channel>
   <channel id="CartoonClassics.pl@FAST">
     <display-name>Cartoon Classics</display-name>
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg" />
-  </channel>
-  <channel id="CCPlutoTV.us@Austria">
-    <display-name>CC Pluto TV</display-name>
-    <icon src="https://i.imgur.com/MjC40At.png" />
-  </channel>
-  <channel id="CCPlutoTV.us@Germany">
-    <display-name>CC Pluto TV</display-name>
-    <icon src="https://i.imgur.com/MjC40At.png" />
-  </channel>
-  <channel id="ChintuTV.in@SD">
-    <display-name>Chintu TV (576p)</display-name>
-    <icon src="https://i.imgur.com/MHrufYc.png" />
   </channel>
   <channel id="Choppertown.us@SD">
     <display-name>Choppertown (720p)</display-name>
     <icon src="https://i.imgur.com/U6cu5Ms.png" />
   </channel>
-  <channel id="ChuttiTV.in@SD">
-    <display-name>Chutti TV (576p)</display-name>
-    <icon src="https://i.imgur.com/FSM47sR.png" />
-  </channel>
-  <channel id="CityEdenAutoGid.ru@HD">
-    <display-name>Сити Эдем АвтоГид [Not 24/7]</display-name>
-    <icon src="https://i.imgur.com/qpe8L27.png" />
-  </channel>
   <channel id="ClassicTVComedy.us@SD">
     <display-name>Classic TV Comedy</display-name>
     <icon src="https://i.imgur.com/wg5I5Fb.png" />
-  </channel>
-  <channel id="ComediaMadeinSpain.us@SD">
-    <display-name>Comedia Made in Spain (720p) [Not 24/7]</display-name>
-    <icon src="https://i.imgur.com/8ddFdSQ.png" />
   </channel>
   <channel id="ComedyCentral.us@East">
     <display-name>Comedy Central (720p)</display-name>
@@ -220,10 +96,6 @@
   <channel id="ComedyCentralAnimation.us@SD">
     <display-name>Comedy Central Animation</display-name>
     <icon src="https://i.imgur.com/uENch0P.png" />
-  </channel>
-  <channel id="ComedyCentralenEspanol.us@SD">
-    <display-name>Comedy Central en Español</display-name>
-    <icon src="https://i.imgur.com/6xTD3G8.png" />
   </channel>
   <channel id="ComedyCentralPlutoTV.us@Canada">
     <display-name>Comedy Central</display-name>
@@ -237,53 +109,13 @@
     <display-name>Comedy Dynamics</display-name>
     <icon src="https://i.imgur.com/1lEvUOa.png" />
   </channel>
-  <channel id="ComedyPlay.ro@SD">
-    <display-name>Comedy Play (720p)</display-name>
-    <icon src="https://i.imgur.com/6kAeVOk.png" />
-  </channel>
-  <channel id="ComedyTV.ge@SD">
-    <display-name>Comedy TV</display-name>
-    <icon src="https://i.imgur.com/i1TANKv.png" />
-  </channel>
   <channel id="ComedyTV.us@SD">
     <display-name>Comedy TV</display-name>
     <icon src="https://i.imgur.com/KLfXnba.png" />
   </channel>
-  <channel id="DisneyChannelLatinAmerica.ar@Panregional">
-    <display-name>Disney Channel Latin America (1080p)</display-name>
-    <icon src="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" />
-  </channel>
-  <channel id="DisneyChannelLatinAmerica.ar@PanregionalHD">
-    <display-name>Disney Channel Latin America Panregional HD (1080p)</display-name>
-    <icon src="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" />
-  </channel>
-  <channel id="DisneyJr.tr@SD">
-    <display-name>Disney Jr. (1080p) [Geo-blocked]</display-name>
-    <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" />
-  </channel>
-  <channel id="DisneyJrLatinAmerica.ar@South">
-    <display-name>Disney Jr. Latin America South (480p)</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" />
-  </channel>
-  <channel id="DistritoComedia.mx@SD">
-    <display-name>Distrito Comedia (576p)</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" />
-  </channel>
-  <channel id="DreamWorksChannelAsia.us@Vietnam">
-    <display-name>DreamWorks Channel Asia Vietnam (1080p)</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png" />
-  </channel>
-  <channel id="DreikoTV.pa@SD">
-    <display-name>DreikoTv (720p) [Not 24/7]</display-name>
-    <icon src="https://i.imgur.com/k8U0e0b.png" />
-  </channel>
   <channel id="DryBarComedyPlus.us@SD">
     <display-name>Dry Bar Comedy (720p)</display-name>
     <icon src="https://i.imgur.com/3N2C60N.png" />
-  </channel>
-  <channel id="EnerGeek.cl@SD">
-    <display-name>EnerGeek (720p) [Not 24/7]</display-name>
-    <icon src="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" />
   </channel>
   <channel id="ExtremaKidsTV.cr@HD">
     <display-name>Extrema Kids TV [Not 24/7]</display-name>
@@ -293,61 +125,21 @@
     <display-name>FailArmy</display-name>
     <icon src="https://i.imgur.com/VIpQJxL.png" />
   </channel>
-  <channel id="FailArmy.us@France">
-    <display-name>FailArmy</display-name>
-    <icon src="https://i.imgur.com/VIpQJxL.png" />
-  </channel>
-  <channel id="FailArmy.us@Italy">
-    <display-name>FailArmy Italy (720p)</display-name>
-    <icon src="https://i.imgur.com/VIpQJxL.png" />
-  </channel>
   <channel id="FailArmy.us@Poland">
     <display-name>Fail Army</display-name>
-    <icon src="https://i.imgur.com/VIpQJxL.png" />
-  </channel>
-  <channel id="FailArmy.us@Spain">
-    <display-name>FailArmy Spain</display-name>
     <icon src="https://i.imgur.com/VIpQJxL.png" />
   </channel>
   <channel id="FailArmy.us@US">
     <display-name>Failarmy International (720p)</display-name>
     <icon src="https://i.imgur.com/VIpQJxL.png" />
   </channel>
-  <channel id="FunRoads.us@SD">
-    <display-name>Fun Roads (404p)</display-name>
-    <icon src="https://i.imgur.com/2Q6TENm.png" />
-  </channel>
   <channel id="FunnyAF.us@SD">
     <display-name>Funny AF</display-name>
     <icon src="https://i.imgur.com/UCwjdtQ.png" />
   </channel>
-  <channel id="GameOne.fr@SD">
-    <display-name>Game One (1080p)</display-name>
-    <icon src="https://i.imgur.com/UHkaObv.png" />
-  </channel>
-  <channel id="GarageTVLatinAmerica.ar@SD">
-    <display-name>Garage TV Latin America</display-name>
-    <icon src="https://i.imgur.com/FqFxog1.png" />
-  </channel>
-  <channel id="Geekdot.br@SD">
-    <display-name>Geekdot (720p)</display-name>
-    <icon src="https://i.imgur.com/jML1u4O.png" />
-  </channel>
-  <channel id="GEMComedy.tr@SD">
-    <display-name>GEM Comedy</display-name>
-    <icon src="https://i.imgur.com/FuscfJW.png" />
-  </channel>
-  <channel id="GeminiComedy.in@SD">
-    <display-name>Gemini Comedy (576p)</display-name>
-    <icon src="https://i.imgur.com/CnDyjkX.png" />
-  </channel>
-  <channel id="GikTVMX.mx@SD">
-    <display-name>GikTVMx (480p)</display-name>
-    <icon src="https://i.imgur.com/Gwz78jZ.png" />
-  </channel>
-  <channel id="GoldenEagleCartoon.cn@SD">
-    <display-name>Golden Eagle Cartoon</display-name>
-    <icon src="https://i.imgur.com/xfVHrKQ.png" />
+  <channel id="FunRoads.us@SD">
+    <display-name>Fun Roads (404p)</display-name>
+    <icon src="https://i.imgur.com/2Q6TENm.png" />
   </channel>
   <channel id="GooderNationChannel32.us@West">
     <display-name>Gooder Nation Channel 32 (720p) [Not 24/7]</display-name>
@@ -356,26 +148,6 @@
   <channel id="HumorMill.us@SD">
     <display-name>Humor Mill (1080p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/e5W91v2.png" />
-  </channel>
-  <channel id="Jail.pl@Poland">
-    <display-name>Jail</display-name>
-    <icon src="" />
-  </channel>
-  <channel id="JapanimTV.be@SD">
-    <display-name>Japanim TV (1080p)</display-name>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" />
-  </channel>
-  <channel id="JiangxiChildrensChannel.cn@SD">
-    <display-name>Jiangxi Children's Channel</display-name>
-    <icon src="https://www.tvchinese.net/uploads/tv/jxtv6.jpg" />
-  </channel>
-  <channel id="JordanComedy.jo@SD">
-    <display-name>Jordan Comedy (1080p)</display-name>
-    <icon src="https://i.imgur.com/DuwwoO2.png" />
-  </channel>
-  <channel id="JustepourRire.us@France">
-    <display-name>Juste pour Rire</display-name>
-    <icon src="https://i.imgur.com/m5lO27j.png" />
   </channel>
   <channel id="JustforLaughs.us@Italy">
     <display-name>Just for Laughs Italy (720p)</display-name>
@@ -389,10 +161,6 @@
     <display-name>Just For Laughs Gags (720p)</display-name>
     <icon src="https://i.imgur.com/HjVEVMJ.png" />
   </channel>
-  <channel id="Kanade.cl@SD">
-    <display-name>Kanade (1080p)</display-name>
-    <icon src="https://static.kanade.cl/assets/img/profilepic_512px.png" />
-  </channel>
   <channel id="KevinHartsLOLNetwork.us@SD">
     <display-name>LOL Network (1080p)</display-name>
     <icon src="https://i.imgur.com/Tiy3Ur2.png" />
@@ -405,21 +173,9 @@
     <display-name>KSHB-DT3 (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" />
   </channel>
-  <channel id="KuriakosKids.pt@SD">
-    <display-name>Kuriakos Kids (1080p)</display-name>
-    <icon src="https://i.imgur.com/SRX6EPY.png" />
-  </channel>
-  <channel id="KVNTV.ru@SD">
-    <display-name>КВН ТВ</display-name>
-    <icon src="https://i.imgur.com/Vw3LFLX.png" />
-  </channel>
   <channel id="Laff.us@SD">
     <display-name>Laff (480p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" />
-  </channel>
-  <channel id="LaughterTheater.cn@SD">
-    <display-name>Laughter Theater</display-name>
-    <icon src="https://i.imgur.com/CrFesS6.png" />
   </channel>
   <channel id="LOLAfrica.za@SD">
     <display-name>LOL (720p)</display-name>
@@ -428,10 +184,6 @@
   <channel id="Lupinthe3rd.us@SD">
     <display-name>Lupin the 3rd</display-name>
     <icon src="https://i.imgur.com/Wopu3y9.png" />
-  </channel>
-  <channel id="MagicKids.ar@SD">
-    <display-name>Magic Kids (486p)</display-name>
-    <icon src="https://i.imgur.com/CMImqQY.png" />
   </channel>
   <channel id="MCN6MusicChannel.us@SD">
     <display-name>MCN6 Music Channel (1080p) [Not 24/7]</display-name>
@@ -445,39 +197,15 @@
     <display-name>Motor Trend</display-name>
     <icon src="https://i.imgur.com/hKDccCL.png" />
   </channel>
-  <channel id="Motorvision.de@Poland">
-    <display-name>MOTORVISION.TV</display-name>
-    <icon src="https://i.imgur.com/v4kj8pI.png" />
-  </channel>
-  <channel id="Motorvision.de@SD">
-    <display-name>Motorvision TV (720p)</display-name>
-    <icon src="https://i.imgur.com/v4kj8pI.png" />
-  </channel>
   <channel id="MoviesforGamers.us@SD">
     <display-name>Movies for Gamers</display-name>
     <icon src="https://i.imgur.com/aqjzEkb.png" />
-  </channel>
-  <channel id="Multimania.lv@SD">
-    <display-name>Multimania (Latvia) (576p)</display-name>
-    <icon src="https://i.imgur.com/J9Lwc0T.png" />
-  </channel>
-  <channel id="Multimania.ru@SD">
-    <display-name>Мультимания (576p)</display-name>
-    <icon src="https://i.imgur.com/abh8ZBA.png" />
   </channel>
   <channel id="MysteryScienceTheater3000.us@SD">
     <display-name>Mystery Science Theater 3000 (1080p)</display-name>
     <icon src="https://i.imgur.com/8KWjY4o.png" />
   </channel>
-  <channel id="Naruto.us@Austria">
-    <display-name>Naruto</display-name>
-    <icon src="https://i.imgur.com/M8X3Kvc.png" />
-  </channel>
   <channel id="Naruto.us@Canada">
-    <display-name>Naruto</display-name>
-    <icon src="https://i.imgur.com/M8X3Kvc.png" />
-  </channel>
-  <channel id="Naruto.us@Germany">
     <display-name>Naruto</display-name>
     <icon src="https://i.imgur.com/M8X3Kvc.png" />
   </channel>
@@ -485,33 +213,9 @@
     <display-name>Naruto</display-name>
     <icon src="https://i.imgur.com/M8X3Kvc.png" />
   </channel>
-  <channel id="Nickelodeon.ee@SD">
-    <display-name>Nickelodeon (576p)</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png" />
-  </channel>
-  <channel id="NickComedyCentralPlus1.de@HD">
-    <display-name>Nick/Comedy Central +1 HD (1080p)</display-name>
-    <icon src="https://i.imgur.com/08ZUI9k.png" />
-  </channel>
   <channel id="OnePiece.us@SD">
     <display-name>One Piece</display-name>
     <icon src="https://i.imgur.com/XsvbAWR.png" />
-  </channel>
-  <channel id="OPA.cr@SD">
-    <display-name>¡OPA! (1080i) [Geo-blocked]</display-name>
-    <icon src="https://i.imgur.com/300c1ZH.png" />
-  </channel>
-  <channel id="PersianaComedy.fr@SD">
-    <display-name>Persiana Comedy</display-name>
-    <icon src="https://i.imgur.com/DBZ3Pi5.png" />
-  </channel>
-  <channel id="Pingviins.lv@SD">
-    <display-name>Pingvīns (576p) [Geo-blocked]</display-name>
-    <icon src="https://i.imgur.com/hfXoJIY.png" />
-  </channel>
-  <channel id="Pingviin.ee@SD">
-    <display-name>Pingviin (576p)</display-name>
-    <icon src="https://i.imgur.com/b6xupqO.png" />
   </channel>
   <channel id="PlutoTVCars.us@SD">
     <display-name>Pluto TV Cars</display-name>
@@ -521,10 +225,6 @@
     <display-name>Pluto TV Classic TV (720p)</display-name>
     <icon src="https://i.imgur.com/hGdXRMd.png" />
   </channel>
-  <channel id="PlutoTVComedie.us@France">
-    <display-name>Pluto TV Comédie</display-name>
-    <icon src="https://i.imgur.com/1e4IFrS.png" />
-  </channel>
   <channel id="PlutoTVComedy.us@Canada">
     <display-name>Pluto TV Comedy</display-name>
     <icon src="https://i.imgur.com/MTVrbd5.png" />
@@ -533,37 +233,17 @@
     <display-name>Pluto TV Comedy</display-name>
     <icon src="https://i.imgur.com/MTVrbd5.png" />
   </channel>
-  <channel id="PlutoTVComedyCentralLatino.us@SD">
-    <display-name>Pluto TV Comedy Central Latino (720p)</display-name>
-    <icon src="https://i.imgur.com/FiM7Rbz.png" />
-  </channel>
-  <channel id="PlutoTVKenanyKel.us@SD">
-    <display-name>Pluto TV Kenan y Kel (720p)</display-name>
-    <icon src="https://i.imgur.com/9PAY5Xz.png" />
-  </channel>
   <channel id="PlutoTVPokemon.us@SD">
     <display-name>Pokémon</display-name>
     <icon src="https://i.imgur.com/GEbRABE.png" />
   </channel>
-  <channel id="PlutoTVSeriesComedia.us@Spain">
-    <display-name>Pluto TV Series Comedia (360p)</display-name>
-    <icon src="https://i.imgur.com/INcTSkj.png" />
-  </channel>
-  <channel id="PlutoTVSitcoms.us@Austria">
-    <display-name>Pluto TV Sitcoms</display-name>
-    <icon src="https://i.imgur.com/YzrUL8P.png" />
-  </channel>
-  <channel id="PlutoTVSitcoms.us@Germany">
+  <channel id="PlutoTVSitcoms.us@US">
     <display-name>Pluto TV Sitcoms</display-name>
     <icon src="https://i.imgur.com/YzrUL8P.png" />
   </channel>
   <channel id="PowerNationTV.us@SD">
     <display-name>PowerNation (1080p)</display-name>
     <icon src="https://i.imgur.com/jguTO8E.png" />
-  </channel>
-  <channel id="Pro100TV.ru@SD">
-    <display-name>Pro100TV</display-name>
-    <icon src="https://i.imgur.com/YfQEflM.png" />
   </channel>
   <channel id="RetroCrush.us@SD">
     <display-name>RetroCrush (1080p)</display-name>
@@ -573,121 +253,33 @@
     <display-name>RiffTrax</display-name>
     <icon src="https://i.imgur.com/hM4yKMn.png" />
   </channel>
-  <channel id="RotanaComedy.sa@SD">
-    <display-name>Rotana Comedy (1080p) [Geo-blocked]</display-name>
-    <icon src="https://i.imgur.com/IlT8U6S.png" />
-  </channel>
-  <channel id="RoyaComedy.jo@SD">
-    <display-name>Roya Comedy (1080p)</display-name>
-    <icon src="https://i.imgur.com/oIThcM8.png" />
-  </channel>
   <channel id="RPM.za@SD">
     <display-name>RPM (720p)</display-name>
     <icon src="https://i.imgur.com/gWJ1lN8.png" />
-  </channel>
-  <channel id="Scherzierisate.us@Italy">
-    <display-name>Scherzi e risate Italy (720p)</display-name>
-    <icon src="https://i.imgur.com/jVWPVvJ.png" />
-  </channel>
-  <channel id="SirippoliTV.in@SD">
-    <display-name>Sirippoli TV (576p)</display-name>
-    <icon src="https://i.imgur.com/nsplwFc.png" />
-  </channel>
-  <channel id="Solnce.ru@SD">
-    <display-name>Солнце</display-name>
-    <icon src="https://i.imgur.com/HCefxaK.png" />
   </channel>
   <channel id="SouthPark.us@Canada">
     <display-name>South Park</display-name>
     <icon src="https://i.imgur.com/qA3KsTh.png" />
   </channel>
-  <channel id="SpacetoonArabic.ae@SD">
-    <display-name>Spacetoon Arabic (1080p)</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" />
-  </channel>
-  <channel id="SuryaComedy.in@SD">
-    <display-name>Surya Comedy (576p)</display-name>
-    <icon src="https://i.imgur.com/dNI0Vm5.png" />
-  </channel>
-  <channel id="SX3.es@SD">
-    <display-name>SX3 (1080p) [Geo-blocked]</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/512px-SX3_logo.svg.png" />
-  </channel>
-  <channel id="TakeshisCastle.us@Austria">
+  <channel id="TakeshisCastle.us@US">
     <display-name>Takeshi's Castle</display-name>
     <icon src="https://i.imgur.com/KuK72kL.png" />
-  </channel>
-  <channel id="TakeshisCastle.us@Germany">
-    <display-name>Takeshi's Castle</display-name>
-    <icon src="https://i.imgur.com/KuK72kL.png" />
-  </channel>
-  <channel id="TigueritoTV.do@HD">
-    <display-name>Tiguerito TV (720p) [Not 24/7]</display-name>
-    <icon src="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" />
   </channel>
   <channel id="ToonamiAftermath.us@East">
     <display-name>Toonami Aftermath East (480p)</display-name>
     <icon src="https://i.imgur.com/aSjhZK7.png" />
   </channel>
-  <channel id="TopGear.uk@Italy">
-    <display-name>Pluto TV Top Gear</display-name>
-    <icon src="https://i.imgur.com/S6Su6QH.png" />
-  </channel>
   <channel id="TopGear.uk@SD">
     <display-name>Top Gear</display-name>
     <icon src="https://i.imgur.com/S6Su6QH.png" />
-  </channel>
-  <channel id="TopMillionDollarAgent.pl@FAST">
-    <display-name>Top Million Dollar Agent</display-name>
-    <icon src="" />
-  </channel>
-  <channel id="TV2Comedy.hu@SD">
-    <display-name>TV2 Comedy (576p)</display-name>
-    <icon src="https://i.imgur.com/B02hbcV.png" />
   </channel>
   <channel id="TVLandSitcoms.us@SD">
     <display-name>TV Land Sitcoms</display-name>
     <icon src="https://i.imgur.com/phHHs7l.png" />
   </channel>
-  <channel id="TVMaticComedy.br@SD">
-    <display-name>TVMatic Comedy (720p)</display-name>
-    <icon src="https://i.imgur.com/l5PBcKN.png" />
-  </channel>
-  <channel id="TVSComedyNetwork.us@SD">
-    <display-name>TVS Comedy Network (720p)</display-name>
-    <icon src="https://i.imgur.com/rXORbti.png" />
-  </channel>
-  <channel id="TvoyeTVYumor.ru@SD">
-    <display-name>Твое ТВ Юмор</display-name>
-    <icon src="https://smotret.tv/images/tvoe-tv-yumor.webp" />
-  </channel>
-  <channel id="UdayaComedy.in@SD">
-    <display-name>Udaya Comedy (576p)</display-name>
-    <icon src="https://i.imgur.com/mLAnscw.png" />
-  </channel>
   <channel id="UniversalComedy.us@SD">
     <display-name>Universal Comedy (480p)</display-name>
     <icon src="https://i.imgur.com/avBL8pQ.png" />
-  </channel>
-  <channel id="Vayasemanita.us@Spain">
-    <display-name>Pluto TV Vaya semanita (720p)</display-name>
-    <icon src="https://i.imgur.com/0bCLNUG.png" />
-  </channel>
-  <channel id="ViXJajaja.mx@SD">
-    <display-name>ViX Jajaja (1080p)</display-name>
-    <icon src="https://i.imgur.com/UL1JtYb.png" />
-  </channel>
-  <channel id="XilamTV.fr@SD">
-    <display-name>XilamTV (1080p)</display-name>
-    <icon src="https://yt3.googleusercontent.com/ytc/AIdro_k6spR1AVLZ0ISqrFP-Z9JeBMHPpAc9T-pmFlG6_lSkNw=s160-c-k-c0x00ffffff-no-rj" />
-  </channel>
-  <channel id="XtremaCartoons.ar@SD">
-    <display-name>Xtrema Cartoons</display-name>
-    <icon src="https://i.imgur.com/X2d8y4e.png" />
-  </channel>
-  <channel id="YouManCartoonChannel.cn@SD">
-    <display-name>优漫卡通 (576p)</display-name>
-    <icon src="https://i.imgur.com/GZInf2W.png" />
   </channel>
   <channel id="YuGiOh.us@SD">
     <display-name>Yu-Gi-Oh!</display-name>
